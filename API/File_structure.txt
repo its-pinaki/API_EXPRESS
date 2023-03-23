@@ -1,0 +1,6 @@
+1. node_module
+2. package.json
+3. package.lock.json
+4. .env
+5.src->
+   a.main_file
